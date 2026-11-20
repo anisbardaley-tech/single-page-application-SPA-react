@@ -2,6 +2,10 @@
 
 A simple portfolio project showcase app for a junior software developer. Built with React, Vite, and Tailwind CSS, it lets visitors browse, search, filter, add, and like projects.
 
+## Live Demo
+
+[Open the deployed app](https://anisbardaley-tech.github.io/single-page-application-SPA-react/)
+
 ## Features
 
 - Add new projects with a title, technology, and description
