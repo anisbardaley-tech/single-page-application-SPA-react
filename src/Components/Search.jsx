@@ -13,7 +13,7 @@ function SearchBar({ value, onChange }) {
                 value={value}
                 onChange={(event) => onChange(event.target.value)}
                 placeholder="Search here ..."
-                className="w-full rounded-full border border-slate-300 bg-white py-2 pl-9 pr-10 text-sm focus:border-sky-500 focus:outline-none focus:ring-sky-200"
+                className="w-full rounded-full border border-slate-300 bg-white py-2 pl-4 pr-10"
             />
 
             {value && (

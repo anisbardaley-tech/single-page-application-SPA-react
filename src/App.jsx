@@ -20,11 +20,11 @@ function App() {
       <Navigation />
       <Header />
 
-      <main className="mx-auto w-full max-w-5xl flex-1 space-y-8 px-4 py-8 sm:px-6">
+      <main className="mx-auto w-full max-w-5xl flex-1 space-y-8 px- py-8 sm:px-6">
         <Projectform onAdd={handleAddProject} />
         <Projects projects={projects} />
       </main>
-  </div>
+    </div>
   )
 }
 
